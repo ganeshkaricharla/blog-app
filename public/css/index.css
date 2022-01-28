@@ -1,0 +1,27 @@
+.container-fluid {
+    padding: 1%;
+}
+#title-bar {
+    background-color: #679B9B;
+    color: #FDE2E2;
+}
+
+.nav-link,.navbar-brand {
+    text-decoration: none;
+    color: #FDE2E2;
+}
+
+.container {
+    padding: 5%;
+}
+
+
+.footer {
+    text-align: center;
+    color: #FDE2E2;
+    background-color: #679B9B;
+    position: absolute;
+    bottom: 0;
+    width:100%;
+}
+
